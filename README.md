@@ -1,2 +1,1 @@
-# seyrek-meyve.github.io
-asdasdasd
+Seyrek meyve websitesidir.
