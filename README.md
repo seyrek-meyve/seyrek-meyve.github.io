@@ -1,1 +1,1 @@
-Seyrek meyve websitesidir.
+Seyrek meyve website kodlarıdır.
