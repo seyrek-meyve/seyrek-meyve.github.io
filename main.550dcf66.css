@@ -14,8 +14,9 @@
 
 }
 #logo{
-    with:75px;
-    height:75px;
+    with:85px;
+    height:85px;
+    margin-top: -15px
 }
 .facebooklogo{
     with:75px;
@@ -35,7 +36,7 @@
     height:540px;
 }
 .copyright{
-    font-size:30 px;
+    font-size:30    px;
 }
 .iletişim2{
 margin-top: 10px;
